@@ -7,11 +7,6 @@ footer{
 }
 
 
-/*footer img{
-    width: 32px;
-    height: 32px;
-    vertical-align: middle;
-}*/
 .wrapper{
     position: absolute;
     float: left;
@@ -495,7 +490,7 @@ footer{
 }
 
 @-webkit-keyframes line{
-    0%{height:4px;top:0px;left:0px;-webkit-transform:rotate(-1deg)}
+    0%{height:4px;top:0px;left:0px;-webkit-transform:rotate(-65deg)}
     10%{height: 220px;top: -118px;left: 15px;}
     45%{height: 200px;top:-100px;left:10px}
     70%{height: 8px;top:0;left:25px;-webkit-tranform:rotate(0deg)}
